@@ -1,0 +1,10 @@
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\bin\Debug\TAP_U2.exe.config
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\bin\Debug\TAP_U2.exe
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\bin\Debug\TAP_U2.pdb
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\obj\Debug\TAP_U2.csprojAssemblyReference.cache
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\obj\Debug\TAP_U2.Form1.resources
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\obj\Debug\TAP_U2.Properties.Resources.resources
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\obj\Debug\TAP_U2.csproj.GenerateResource.cache
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\obj\Debug\TAP_U2.csproj.CoreCompileInputs.cache
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\obj\Debug\TAP_U2.exe
+C:\Users\Tiyo\source\repos\TAP_U2\TAP_U2\obj\Debug\TAP_U2.pdb
